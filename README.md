@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tensetti
+- 👀 I’m interested in ICT and creating fun projects for my pupils.
+- 🌱 I’m currently learning how to teach js and swift. 
+- 💞️ I’m looking to collaborate on projects aimed to teach kids to create and code. 
